@@ -4,6 +4,10 @@
 
 ASP.NET Core 9 Web API for managing employee tasks with JWT authentication, role-based access, Entity Framework Core, SQL Server, Swagger, xUnit tests, Docker, and GitHub Actions CI.
 
+## Demo
+
+![Employee Task API demo](docs/demo/employee-task-api-demo.gif)
+
 ## Problem
 
 Small teams need a simple way to assign, track, and update employee work without exposing every task to every user. This API demonstrates the backend foundations expected in a junior .NET role: secure login, CRUD endpoints, SQL persistence, role-aware authorization, automated tests, and CI.
